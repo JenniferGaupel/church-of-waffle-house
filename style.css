@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  margin: auto;
+  font-family: Consolas, "Lucida Console", "Andale Mono", monospace;
+  max-width: 960px;
+  line-height: 1.65em;
+  padding: 3em;
+  background:	#000000;
+  background-image: url("stars.jpeg")
+}
+
+h1 {
+  font-size: 3em;
+  color: #FFF200;
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
+.btn-primary{
+    background-color: #FFF200 !important;
+    border-color: #FFF200 !important;
+    color: #000000 !important;
+}
+
+
+#random-name {
+  font-weight: 500;
+  color: #FFF200;
+  padding: 40px;
+}
